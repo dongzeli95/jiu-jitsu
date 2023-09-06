@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Drills](README.md)
+  * [Scissor Sweep](drills/scissor-sweep.md)
