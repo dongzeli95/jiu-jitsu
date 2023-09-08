@@ -2,4 +2,5 @@
 
 * [Drills](README.md)
   * [Scissor Sweep](drills/scissor-sweep.md)
-  * [Spider Guard](drills/spider-guard.md)
+  * [Take Down (9.5.2023)](drills/take-down-9.5.2023.md)
+  * [Spider Guard (9.7.2023)](drills/spider-guard-9.7.2023.md)
