@@ -7,3 +7,4 @@
   * [Sweep to Arm-bar (9.12.2023)](drills/sweep-to-arm-bar-9.12.2023.md)
   * [Full guard to arm-bar/triangle (9.14.2023)](drills/full-guard-to-arm-bar-triangle-9.14.2023.md)
   * [Triangle Defense / Full Guard Sweep (9.19.23)](drills/triangle-defense-full-guard-sweep-9.19.23.md)
+  * [Side Control Escape (9.21.23)](drills/side-control-escape-9.21.23.md)
