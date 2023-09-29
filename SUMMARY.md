@@ -9,3 +9,4 @@
   * [Triangle Defense / Full Guard Sweep (9.19.23)](drills/triangle-defense-full-guard-sweep-9.19.23.md)
   * [Side Control Escape (9.21.23)](drills/side-control-escape-9.21.23.md)
   * [Half guard to take back (9.26.23)](drills/half-guard-to-take-back-9.26.23.md)
+  * [Escape full guard](drills/escape-full-guard.md)
