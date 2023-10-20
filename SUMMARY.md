@@ -10,3 +10,4 @@
   * [Side Control Escape (9.21.23)](drills/side-control-escape-9.21.23.md)
   * [Half guard to take back (9.26.23)](drills/half-guard-to-take-back-9.26.23.md)
   * [Escape full guard (9.28.23)](drills/escape-full-guard-9.28.23.md)
+  * [Half guard to take back + Escape full guard (10.19.23)](drills/half-guard-to-take-back-+-escape-full-guard-10.19.23.md)
