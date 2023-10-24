@@ -1,5 +1,7 @@
 # Side Control Escape (9.21.23)
 
+## [Link](https://youtube.com/clip/UgkxnzDNV395efBdbJtvCM1nLIuCzDTMU9aM?si=cdAtYZY063g0stVF)
+
 ## Option 1
 
 1. **Initiating the Escape from Bottom Side Control**: When you're on the bottom in side control, begin your escape by addressing your opponent's position.
