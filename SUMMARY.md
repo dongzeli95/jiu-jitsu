@@ -13,3 +13,4 @@
   * [Half guard to take back + Escape full guard (10.19.23)](drills/half-guard-to-take-back-+-escape-full-guard-10.19.23.md)
   * [Full guard sweep (10.24.23)](drills/full-guard-sweep-10.24.23.md)
   * [Stand Up Game (10.31.23)](drills/stand-up-game-10.31.23.md)
+  * [Full guard sweep to arm bar (11.2.23)](drills/full-guard-sweep-to-arm-bar-11.2.23.md)
