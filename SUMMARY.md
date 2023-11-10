@@ -14,3 +14,4 @@
   * [Full guard sweep (10.24.23)](drills/full-guard-sweep-10.24.23.md)
   * [Stand Up Game (10.31.23)](drills/stand-up-game-10.31.23.md)
   * [Full guard sweep to arm bar (11.2.23)](drills/full-guard-sweep-to-arm-bar-11.2.23.md)
+  * [Full guard to arm bar (11.9.23)](drills/full-guard-to-arm-bar-11.9.23.md)
