@@ -15,3 +15,4 @@
   * [Stand Up Game (10.31.23)](drills/stand-up-game-10.31.23.md)
   * [Full guard sweep to arm bar (11.2.23)](drills/full-guard-sweep-to-arm-bar-11.2.23.md)
   * [Full guard to arm bar (11.9.23)](drills/full-guard-to-arm-bar-11.9.23.md)
+  * [Top Control within half guard(11.14.23)](drills/top-control-within-half-guard-11.14.23.md)
