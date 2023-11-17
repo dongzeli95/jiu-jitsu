@@ -16,3 +16,4 @@
   * [Full guard sweep to arm bar (11.2.23)](drills/full-guard-sweep-to-arm-bar-11.2.23.md)
   * [Full guard to arm bar (11.9.23)](drills/full-guard-to-arm-bar-11.9.23.md)
   * [Top Control within half guard(11.14.23)](drills/top-control-within-half-guard-11.14.23.md)
+  * [Half Guard (11.16.23)](drills/half-guard-11.16.23.md)
