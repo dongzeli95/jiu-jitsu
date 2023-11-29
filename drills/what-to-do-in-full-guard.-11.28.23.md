@@ -1,4 +1,4 @@
-# What to do in full guard.
+# What to do in full guard. (11.28.23)
 
 ## Option 1
 
