@@ -20,3 +20,4 @@
   * [Full guard to take back (11.21.23)](drills/full-guard-to-take-back-11.21.23.md)
   * [What to do in full guard. (11.28.23)](drills/what-to-do-in-full-guard.-11.28.23.md)
   * [Turtle Escape (11.30.23)](drills/turtle-escape-11.30.23.md)
+  * [Back defense & offense](drills/back-defense-and-offense.md)
