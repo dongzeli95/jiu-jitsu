@@ -23,4 +23,5 @@
   * [Back defense & offense (12.05.23)](drills/back-defense-and-offense-12.05.23.md)
   * [Standing to side control](drills/standing-to-side-control.md)
   * [Full guard escape (12.14.23)](drills/full-guard-escape-12.14.23.md)
-  * [Attack turtle opponent](drills/attack-turtle-opponent.md)
+  * [Attack turtle opponent (12.19.23)](drills/attack-turtle-opponent-12.19.23.md)
+  * [Bottom guard sweep (12.21.23)](drills/bottom-guard-sweep-12.21.23.md)
