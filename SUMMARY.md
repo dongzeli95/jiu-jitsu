@@ -26,3 +26,4 @@
   * [Attack turtle opponent (12.19.23)](drills/attack-turtle-opponent-12.19.23.md)
   * [Bottom guard sweep (12.21.23)](drills/bottom-guard-sweep-12.21.23.md)
   * [Side Control to Choke (1.4.24)](drills/side-control-to-choke-1.4.24.md)
+  * [Half Guard to Back Control (1.9.24)](drills/half-guard-to-back-control-1.9.24.md)
