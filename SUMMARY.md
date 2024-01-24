@@ -28,4 +28,5 @@
   * [Side Control to Choke (1.4.24)](drills/side-control-to-choke-1.4.24.md)
   * [Half Guard to Back Control (1.9.24)](drills/half-guard-to-back-control-1.9.24.md)
   * [Full guard sweep to full mount (1.11.24)](drills/full-guard-sweep-to-full-mount-1.11.24.md)
-  * [Full guard escape to side control](drills/full-guard-escape-to-side-control.md)
+  * [Full guard escape to side control (1.16.24)](drills/full-guard-escape-to-side-control-1.16.24.md)
+  * [Side Control (1.23.24)](drills/side-control-1.23.24.md)
