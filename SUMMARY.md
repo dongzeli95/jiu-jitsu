@@ -31,3 +31,4 @@
   * [Full guard escape to side control (1.16.24)](drills/full-guard-escape-to-side-control-1.16.24.md)
   * [Side Control (1.23.24)](drills/side-control-1.23.24.md)
   * [Standing Game (1.25.24)](drills/standing-game-1.25.24.md)
+  * [guard sweep (2.6.24)](drills/guard-sweep-2.6.24.md)
