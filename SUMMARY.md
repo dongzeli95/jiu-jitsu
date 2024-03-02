@@ -33,3 +33,4 @@
   * [Standing Game (1.25.24)](drills/standing-game-1.25.24.md)
   * [guard sweep (2.6.24)](drills/guard-sweep-2.6.24.md)
   * [Guard to take back (2.12.24)](drills/guard-to-take-back-2.12.24.md)
+  * [Ground guard to side control (2.29.24)](drills/ground-guard-to-side-control-2.29.24.md)
