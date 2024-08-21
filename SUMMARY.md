@@ -35,3 +35,4 @@
   * [Guard to take back (2.12.24)](drills/guard-to-take-back-2.12.24.md)
   * [Ground guard to side control (2.29.24)](drills/ground-guard-to-side-control-2.29.24.md)
   * [Pass De La Riva Guard (08.06.24)](drills/pass-de-la-riva-guard-08.06.24.md)
+  * [Self Defense (08.20.24)](drills/self-defense-08.20.24.md)
