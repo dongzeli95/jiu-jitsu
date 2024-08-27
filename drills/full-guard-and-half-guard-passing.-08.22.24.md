@@ -1,4 +1,4 @@
-# Full guard & Half Guard passing.
+# Full guard & Half Guard passing. (08.22.24)
 
 1. You drop your left knee and double leg take down your opponent.
 2. You land in your opponent's full guard.

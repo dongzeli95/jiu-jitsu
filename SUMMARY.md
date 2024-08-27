@@ -36,4 +36,4 @@
   * [Ground guard to side control (2.29.24)](drills/ground-guard-to-side-control-2.29.24.md)
   * [Pass De La Riva Guard (08.06.24)](drills/pass-de-la-riva-guard-08.06.24.md)
   * [Self Defense (08.20.24)](drills/self-defense-08.20.24.md)
-  * [Full guard & Half Guard passing.](drills/full-guard-and-half-guard-passing..md)
+  * [Full guard & Half Guard passing. (08.22.24)](drills/full-guard-and-half-guard-passing.-08.22.24.md)
