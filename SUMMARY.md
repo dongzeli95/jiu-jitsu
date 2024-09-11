@@ -37,4 +37,4 @@
   * [Pass De La Riva Guard (08.06.24)](drills/pass-de-la-riva-guard-08.06.24.md)
   * [Self Defense (08.20.24)](drills/self-defense-08.20.24.md)
   * [Full guard & Half Guard passing. (08.22.24)](drills/full-guard-and-half-guard-passing.-08.22.24.md)
-  * [Full mount escape](drills/full-mount-escape.md)
+  * [Full mount escape (9.10.24)](drills/full-mount-escape-9.10.24.md)
