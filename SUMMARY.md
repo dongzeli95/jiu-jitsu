@@ -39,3 +39,4 @@
   * [Full guard & Half Guard passing. (08.22.24)](drills/full-guard-and-half-guard-passing.-08.22.24.md)
   * [Full mount escape (9.10.24)](drills/full-mount-escape-9.10.24.md)
   * [Shrimp Full Mount Escape](drills/shrimp-full-mount-escape.md)
+  * [Sweep (9.24.24)](drills/sweep-9.24.24.md)
