@@ -40,3 +40,4 @@
   * [Full mount escape (9.10.24)](drills/full-mount-escape-9.10.24.md)
   * [Shrimp Full Mount Escape](drills/shrimp-full-mount-escape.md)
   * [Sweep (9.24.24)](drills/sweep-9.24.24.md)
+  * [Guillotine & Full guard sweep/armbar (09.26.24)](drills/guillotine-and-full-guard-sweep-armbar-09.26.24.md)
