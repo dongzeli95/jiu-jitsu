@@ -42,3 +42,4 @@
   * [Sweep (9.24.24)](drills/sweep-9.24.24.md)
   * [Guillotine & Full guard sweep/armbar (09.26.24)](drills/guillotine-and-full-guard-sweep-armbar-09.26.24.md)
   * [Side Control Attack (10.1.24)](drills/side-control-attack-10.1.24.md)
+  * [Double Leg take down (10.3.24)](drills/double-leg-take-down-10.3.24.md)
