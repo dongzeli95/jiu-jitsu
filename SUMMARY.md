@@ -45,3 +45,4 @@
   * [Double Leg take down (10.3.24)](drills/double-leg-take-down-10.3.24.md)
   * [Back Control (10.9.24)](drills/back-control-10.9.24.md)
   * [Takedown Compilation (10.29.24)](drills/takedown-compilation-10.29.24.md)
+  * [Guillotine & Full guard sweep/armbar (11.7.24)](drills/guillotine-and-full-guard-sweep-armbar-11.7.24.md)
