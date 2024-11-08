@@ -29,16 +29,21 @@
 1. Use left hand to grab opponent's forearm to the chest on the same side, the other hand grab opponent's right collar
 2. Right hand grab opponent's pants around left knee.
 3. Raise your both legs so opponent's body pull towards you.
-4. Open your guard and sweep your right leg around opponent's left armpit and sweep opponent down.
+4. Open your guard and sweep your right leg around opponent's left armpit and sweep opponent down to the left.
 5. Keep grip on pants and left sleeve and get on top of opponent.
 
 ## Full guard sweep 2
+
+1. Use left hand to grab opponent's forearm to the chest on the same side, the other hand grab opponent's right collar.
+2. Once opponent's left knee stands up, use your right hand to hook underneath it.
+3. Fly your legs up in the air and your left leg should bend inward towards opponent's left side, without getting on top of opponent's head.
+4. Sweep opponent's using right leg and momentum and go on top.
 
 ## Full guard armbar
 
 1. Use left hand to grab opponent's forearm to the chest on the same side.
 2. Once opponent's left knee stands up, use your right hand to hook underneath it.
-3. Once opponent's right knee also stands up
-4. Rotate your head to the right and put your left leg around the same side of opponent's neck.
-5. hip upwards, squeeze your two knees together without crossing feet.
-6. Use your both hands on opponent's wrist so that their thumb is upward, hip thrust and finish the arm bar.
+3. Now both leg go on top of opponent's head.
+4. Your right hand and left hand grabbing opponent's thumb together.
+5. Your left leg should hook and press opponent's head in.
+6. hip upwards, squeeze your two knees together without crossing feet -> arm-bar
