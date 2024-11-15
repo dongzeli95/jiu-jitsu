@@ -46,3 +46,4 @@
   * [Back Control (10.9.24)](drills/back-control-10.9.24.md)
   * [Takedown Compilation (10.29.24)](drills/takedown-compilation-10.29.24.md)
   * [Guillotine & Full guard sweep/armbar (11.7.24)](drills/guillotine-and-full-guard-sweep-armbar-11.7.24.md)
+  * [Armbar from full guard (11.14.24)](drills/armbar-from-full-guard-11.14.24.md)
