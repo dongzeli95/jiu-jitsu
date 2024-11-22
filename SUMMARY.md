@@ -47,4 +47,4 @@
   * [Takedown Compilation (10.29.24)](drills/takedown-compilation-10.29.24.md)
   * [Guillotine & Full guard sweep/armbar (11.7.24)](drills/guillotine-and-full-guard-sweep-armbar-11.7.24.md)
   * [Armbar from full guard (11.14.24)](drills/armbar-from-full-guard-11.14.24.md)
-  * [Single Leg Sweep & Triangle](drills/single-leg-sweep-and-triangle.md)
+  * [Single Leg Sweep & Triangle (11.21.24)](drills/single-leg-sweep-and-triangle-11.21.24.md)
