@@ -49,3 +49,4 @@
   * [Armbar from full guard (11.14.24)](drills/armbar-from-full-guard-11.14.24.md)
   * [Single Leg Sweep & Triangle (11.21.24)](drills/single-leg-sweep-and-triangle-11.21.24.md)
   * [Takedown & Turtle defense (1.7.25)](drills/takedown-and-turtle-defense-1.7.25.md)
+  * [Full mount escape, sweep (1.21.25)](drills/full-mount-escape-sweep-1.21.25.md)
